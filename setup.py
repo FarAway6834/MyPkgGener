@@ -10,7 +10,6 @@ setup(
     install_requires=['setuptools', 'wheel', 'twine', ],
     packages=find_packages(exclude=[]),
     keywords=['FarAway', 'FarAway6834', 'MyPkgGener', 'PythonPkg2WheelableOnlinePkg', 'pypi'],
-    install_requires=['tqdm', 'pandas', 'scikit-learn',],
     python_requires='>=3.10',
     package_data={},
     zip_safe=False,
